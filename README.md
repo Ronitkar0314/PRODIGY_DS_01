@@ -33,7 +33,7 @@ pip install pandas matplotlib seaborn
 🚀 Usage
 
 ## Clone the repository:
-git clone https://github.com/Goldi-Ai/world-bank-population-analysis.git
+git clone https://github.com/Ronitkar0314/world-bank-population-analysis.git
 cd world-bank-population-analysis
 
 
@@ -66,7 +66,6 @@ I hope you enjoyed the journey of uncovering global population insights through 
 
 If you liked this project:
 - ⭐ Star the repository on GitHub
-- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/amisha6828)
-- 👩‍💻 Explore my other projects on [GitHub](https://github.com/Goldi-Ai)
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/)
 
 **Happy Learning & Keep Exploring Data! 🚀**
